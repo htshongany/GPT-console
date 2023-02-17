@@ -1,8 +1,8 @@
 # simple gpt console prompt 
 
-<center>
-	<img src="img/sirehassan.ico">
-</center>
+
+<img src="img/sirehassan.ico" style='display: block;margin-left: auto;margin-right: auto; width:25%'>
+
 
 ## Create an environment
 
@@ -27,12 +27,10 @@ pip install -r requierements.txt
 ```cmd 
 python gpt.py 
 ```
+<h2> how to add an api key </h2>
 
-<center>
-	<h2> how to add an api key </h2>
-	<img src="img/add_api_key.PNG">
-</center>
-<center>
-	<h2> how to use the GPT console </h2>
-	<img src="img/how_to_use.PNG">
-</center>
+<img src="img/add_api_key.PNG">
+
+<h2> how to use the GPT console </h2>
+
+<img src="img/how_to_use.PNG">
