@@ -3,6 +3,10 @@
 
 <img src="img/sirehassan.ico" style='display: block;margin-left: auto;margin-right: auto; width:25%'>
 
+<a href='dist/gpt.exe' download>
+<img src='img/download.png' width='10%' title='download GPT-console'>
+</a>
+
 
 ## Create an environment
 
